@@ -1,0 +1,11 @@
+__pycache__
+
+*.json
+*.png
+*.xlsx
+
+*.pvd
+*.vtu
+
+*.npy
+*.npz

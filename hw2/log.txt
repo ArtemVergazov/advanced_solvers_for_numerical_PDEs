@@ -1,0 +1,29 @@
+solver = SOR, time = 0.3474419116973877, num_iter = 34
+solver = ICC, time = 0.30785632133483887, num_iter = 27
+solver = AMG, time = 0.31739258766174316, num_iter = 1
+solver = default, time = 0.3023073673248291, num_iter = None
+
+solver = SOR, time = 0.3078579902648926, num_iter = 37
+solver = ICC, time = 0.2961390018463135, num_iter = 29
+solver = AMG, time = 0.3251345157623291, num_iter = 1
+solver = default, time = 0.2871687412261963, num_iter = None
+
+solver = SOR, time = 0.7491686344146729, num_iter = 66
+solver = ICC, time = 0.7909231185913086, num_iter = 53
+solver = AMG, time = 0.7743606567382812, num_iter = 2
+solver = default, time = 0.8366291522979736, num_iter = None
+
+solver = SOR, time = 0.7551753520965576, num_iter = 63
+solver = ICC, time = 0.7402045726776123, num_iter = 52
+solver = AMG, time = 0.7720398902893066, num_iter = 2
+solver = default, time = 0.8649313449859619, num_iter = None
+
+solver = SOR, time = 5.400512218475342, num_iter = 185
+solver = ICC, time = 5.429714679718018, num_iter = 158
+solver = AMG, time = 5.518750190734863, num_iter = 2
+solver = default, time = 6.252127408981323, num_iter = None
+
+solver = SOR, time = 5.336905002593994, num_iter = 178
+solver = ICC, time = 5.302795886993408, num_iter = 145
+solver = AMG, time = 5.297816753387451, num_iter = 9
+solver = default, time = 6.18735146522522, num_iter = None
